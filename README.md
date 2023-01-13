@@ -30,7 +30,7 @@ Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-
 REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/karanveersinghA2XYY/AsunaYuuki"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
 
